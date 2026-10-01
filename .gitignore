@@ -1,0 +1,9 @@
+cat > .gitignore <<'EOF'
+target/
+bin/
+.settings/
+.classpath
+.project
+test-output/
+*.log
+EOF
